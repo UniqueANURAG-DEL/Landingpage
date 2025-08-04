@@ -46,6 +46,11 @@ Icons: Font Awesome / Custom SVGs (optional)
 └── assets/
     └── images/
         
+Output:-
+
+
+![Image jpey](https://github.com/user-attachments/assets/84eafb0d-a2d9-4576-9943-61cc4df50a6f)
+
 
 
 
